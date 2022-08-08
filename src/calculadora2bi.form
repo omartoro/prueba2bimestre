@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="calculadora2bi">
+  <grid id="27dc6" binding="mainPanel" layout-manager="GridLayoutManager" row-count="8" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="414" height="453"/>
+    </constraints>
+    <properties>
+      <background color="-15265471"/>
+      <foreground color="-4500380"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="46488" class="javax.swing.JButton" binding="piBT">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <enabled value="true"/>
+          <hideActionText value="false"/>
+          <icon value="signopi.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="a6b5f" class="javax.swing.JButton" binding="raizBT">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <icon value="signoraiz.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="3d248" class="javax.swing.JButton" binding="alcuadradoBT">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <icon value="elevaralcuadrado.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="2d9e0" class="javax.swing.JButton" binding="alaNBT">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <icon value="elevaralan.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="6c01c" class="javax.swing.JButton" binding="borrarBT">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <font size="18"/>
+          <foreground color="-4511698"/>
+          <text value="CE"/>
+        </properties>
+      </component>
+      <component id="b958f" class="javax.swing.JButton" binding="factorialBT">
+        <constraints>
+          <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <font size="18"/>
+          <text value="X!"/>
+        </properties>
+      </component>
+      <component id="38ed6" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <enabled value="false"/>
+          <font size="24"/>
+          <text value="resultado"/>
+        </properties>
+      </component>
+      <component id="45b0c" class="javax.swing.JButton" binding="sinBT">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <font size="18"/>
+          <text value="sin"/>
+        </properties>
+      </component>
+      <component id="a2454" class="javax.swing.JButton" binding="cosBT">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <font size="18"/>
+          <text value="cos"/>
+        </properties>
+      </component>
+      <component id="2de2f" class="javax.swing.JButton" binding="tanBT">
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <font size="18"/>
+          <text value="tan"/>
+        </properties>
+      </component>
+      <component id="2f395" class="javax.swing.JButton" binding="logBT">
+        <constraints>
+          <grid row="3" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <font size="18"/>
+          <text value="log"/>
+        </properties>
+      </component>
+      <component id="d2ed5" class="javax.swing.JButton" binding="multiplicacionBT">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <icon value="signomultipliacion.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="713d0" class="javax.swing.JButton" binding="sumaBT">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <icon value="signomas.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="fe49a" class="javax.swing.JButton" binding="restaBT">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <font/>
+          <icon value="signomenos.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="83b61" class="javax.swing.JButton" binding="divisionBT">
+        <constraints>
+          <grid row="4" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-4932758"/>
+          <icon value="signodividir.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="4ba6c" class="javax.swing.JButton" binding="sieteBT">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-10114373"/>
+          <icon value="numerosiete.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="97bdd" class="javax.swing.JButton" binding="ochoBT">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-10114373"/>
+          <icon value="numeroocho.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="14b5e" class="javax.swing.JButton" binding="nueveBT">
+        <constraints>
+          <grid row="5" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-10114373"/>
+          <icon value="numeronueve.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="36ae6" class="javax.swing.JButton" binding="ceroBT">
+        <constraints>
+          <grid row="5" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-10114373"/>
+          <icon value="numerocero.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="a8315" class="javax.swing.JButton" binding="cuatroBT">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-10114373"/>
+          <icon value="numerocuatro.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="bd708" class="javax.swing.JButton" binding="cincoBT">
+        <constraints>
+          <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-10114373"/>
+          <icon value="numerocinco.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="22a91" class="javax.swing.JButton" binding="seisBT">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-10114373"/>
+          <icon value="numeroseis.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="7b1be" class="javax.swing.JButton" binding="puntoBT">
+        <constraints>
+          <grid row="6" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-10114373"/>
+          <icon value="signopunto.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="d706b" class="javax.swing.JButton" binding="unoBT">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-10114373"/>
+          <icon value="numerouno.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="9be9" class="javax.swing.JButton" binding="dosBT">
+        <constraints>
+          <grid row="7" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-10114373"/>
+          <icon value="numerodos.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="f268c" class="javax.swing.JButton" binding="tresBT">
+        <constraints>
+          <grid row="7" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-10114373"/>
+          <icon value="numerotres.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="fe473" class="javax.swing.JButton" binding="igualBT">
+        <constraints>
+          <grid row="7" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-10114373"/>
+          <icon value="signoigual.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
