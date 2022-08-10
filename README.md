@@ -14,8 +14,8 @@ https://youtu.be/8j7XAAGZNwQ
 
 ![image](https://user-images.githubusercontent.com/67134018/183910907-b0a5230b-9adc-46f6-9247-ef4e0ac65b01.png)
 
-- En caso de haber puesto de forma incorrect cantidades en el panel puede limpiarse con la tecla C la cual está resaltada. Si solo se quiere 
-- eliminar una cantidad esto se hace con la tecla CE que se encuentra a lado.
+- En caso de haber puesto de forma incorrect cantidades en el panel puede limpiarse con la tecla C la cual está resaltada.
+- si solo se desea eliminar una sola cantidad se realiza con la tecla CE que se encuentra a lado.
 
 <hr>
 
