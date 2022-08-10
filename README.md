@@ -5,6 +5,9 @@
     - Omar Toro
 
 ## Ejecucion del Programa
+El siguiente link contiene información detallada de este proyecto, esto en forma de video.
+https://youtu.be/8j7XAAGZNwQ 
+
 - En esta imagén se puede apreciar la interfaz de usuario donde se encuentra toda su funcionalidad
 
 <hr>
