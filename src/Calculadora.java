@@ -59,7 +59,7 @@ public class Calculadora {
         String resultado = "";
         switch (opcion) {
             case 1:
-                numero = Integer.parseInt(operacion.substring(3));
+                numero = Integer.parseInt(operacion.substring(4));
                 resultado = Funcion.raiz(numero);
                 break;
             case 2:
@@ -301,7 +301,6 @@ public class Calculadora {
                     operacionSC.setText("0");
                 }
                 operacionSC.setText(operacion);
-                igualBT.doClick();
             }
         });
     }
